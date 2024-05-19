@@ -1,0 +1,50 @@
+Customer_id,Gender,Age,Payment_type,Transaction_type
+T345,M,55,Credit card,online
+T129,F,59,debit card,in person
+T908,F,50,cash,in person
+T247,M,26,digital wallet,online
+T008,F,55,digital wallet,online
+T213,M,57,cash,in person
+T556,M,27,debit card,online
+T113,M,25,debit card,in person
+T310,F,29,Credit card,online
+T453,F,34,cash,inperson
+T546,M,36,Credit card,online
+T778,F,27,Credit card,in person
+T090,M,59,Credit card,online
+T443,M,51,debit card,in person
+T221,M,31,cash,in person
+T512,F,41,digital wallet,online
+T662,F,65,digital wallet,online
+T887,M,64,cash,in person
+T001,F,64,debit card,online
+T222,M,45,debit card,in person
+T878,M,56,Credit card,online
+T132,M,36,cash,in person
+T667,F,59,Credit card,online
+T323,F,37,Credit card,in person
+T676,M,44,Credit card,online
+T898,F,41,debit card,in person
+T219,M,56,cash,in person
+T410,M,43,digital wallet,online
+T592,M,64,digital wallet,online
+T333,F,63,cash,in person
+T098,F,28,debit card,online
+T678,M,65,debit card,in person
+T901,F,61,Credit card,online
+T999,M,30,cash,in person
+T666,M,27,Credit card,online
+T005,M,32,Credit card,in person
+T655,F,34,Credit card,online
+T772,F,27,debit card,in person
+T499,M,35,cash,in person
+T728,F,57,digital wallet,online
+T511,M,30,digital wallet,online
+T889,M,53,cash,in person
+T035,M,52,debit card,online
+T714,F,37,debit card,in person
+T833,F,29,Credit card,online
+T789,M,40,cash,in person
+T456,F,32,Credit card,online
+T321,M,37,Credit card,in person
+T018,M,52,Credit card,online

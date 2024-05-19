@@ -1,0 +1,50 @@
+Customer_id,Invoice_number,Category,Quantity,Price,Invoice_date,Shopping_mall,City,Province
+T345,I1388,Clothing,5,1500,12/26/2021,bankers hall,calgary,Alberta
+T129,I3173,Shoes,3,1801,12/26/2021,station square,Vancouver,British columbia
+T908,I1278,Clothing,1,300,12/24/2021,polo park,Winnipeg,Manitoba
+T247,I1737,Shoes,5,3001,12/19/2021,rideau square,ottawa,ontario
+T008,I3370,Books,4,61,12/18/2021,North town centre,calgary,alberta
+T213,I2278,Clothing,5,1500,12/15/2021,crystal mall,Vancouver,British columbia
+T556,I1210,Cosmetics,1,41,12/15/2021,brandon shoppers mall,brandon,Manitoba
+T113,I2931,Clothing,2,600,11/21/2021,college square,ottawa,ontario
+T310,I2934,Clothing,3,900,11/19/2021,west brook mall,calgary,Alberta
+T453,I3269,Clothing,2,600,11/16/2021,bankers hall,calgary,Alberta
+T546,I3063,Food & Beverage,2,10,11/15/2021,station square,Vancouver,British columbia
+T778,I1392,Books,1,15,11/15/2021,polo park,Winnipeg,Manitoba
+T090,I6405,Toys,4,143,10/26/2021,rideau square,ottawa,ontario
+T443,I1798,Clothing,2,600,10/21/2021,North town centre,calgary,alberta
+T221,I3361,Clothing,2,600,10/17/2021,crystal mall,Vancouver,British columbia
+T512,I6887,Shoes,5,3001,10/13/2021,brandon shoppers mall,brandon,Manitoba
+T662,I2946,Books,2,30,10/9/2021,college square,ottawa,ontario
+T887,I1957,Food & Beverage,3,16,10/8/2021,west brook mall,calgary,Alberta
+T001,I9930,Clothing,2,600,10/5/2021,bankers hall,calgary,Alberta
+T222,I9924,Toys,4,143,10/2/2021,station square,Vancouver,British columbia
+T878,I1837,Clothing,1,300,9/26/2021,polo park,Winnipeg,Manitoba
+T132,I4124,Food & Beverage,1,5,9/22/2021,rideau square,ottawa,ontario
+T667,I8230,Clothing,2,600,9/21/2021,North town centre,calgary,alberta
+T323,I2522,Technology,5,5250,9/15/2021,crystal mall,Vancouver,British columbia
+T676,I1742,Books,5,76,12/27/2020,brandon shoppers mall,brandon,Manitoba
+T898,I1953,Toys,2,72,12/24/2020,college square,ottawa,ontario
+T219,I1967,Cosmetics,5,203,12/16/2020,west brook mall,calgary,Alberta
+T410,I2170,Shoes,4,2401,11/18/2020,bankers hall,calgary,Alberta
+T592,I6558,Shoes,3,1801,11/8/2020,station square,Vancouver,British columbia
+T333,I2097,Cosmetics,3,122,10/21/2020,polo park,Winnipeg,Manitoba
+T098,I1619,Toys,3,108,10/20/2020,rideau square,ottawa,ontario
+T678,I3318,Clothing,1,300,10/9/2020,North town centre,calgary,alberta
+T901,I7683,Shoes,3,1801,9/27/2020,crystal mall,Vancouver,British columbia
+T999,I1090,Clothing,4,1200,9/25/2020,brandon shoppers mall,brandon,Manitoba
+T666,I1672,Shoes,4,2401,9/25/2020,college square,ottawa,ontario
+T005,I3397,Food & Beverage,1,5,9/21/2020,west brook mall,calgary,Alberta
+T655,I1470,Clothing,5,1500,9/20/2020,bankers hall,calgary,Alberta
+T772,I1875,Clothing,2,600,9/18/2020,station square,Vancouver,British columbia
+T499,I1066,Clothing,2,600,9/12/2020,polo park,Winnipeg,Manitoba
+T728,I4734,Clothing,1,300,9/4/2020,rideau square,ottawa,ontario
+T511,I2465,Food & Beverage,3,16,8/26/2020,North town centre,calgary,alberta
+T889,I1386,Cosmetics,2,81,8/20/2020,crystal mall,Vancouver,British columbia
+T035,I7526,Cosmetics,3,122,8/15/2020,brandon shoppers mall,brandon,Manitoba
+T714,I8261,Shoes,4,2401,8/9/2020,college square,ottawa,ontario
+T833,I2960,Shoes,3,1801,8/8/2020,west brook mall,calgary,Alberta
+T789,I1172,Books,5,76,7/28/2020,bankers hall,calgary,Alberta
+T456,I2671,Cosmetics,3,122,7/26/2020,station square,Vancouver,British columbia
+T321,I2053,Clothing,4,1200,7/24/2020,polo park,Winnipeg,Manitoba
+T018,I2696,Cosmetics,3,122,7/24/2020,rideau square,ottawa,ontario
